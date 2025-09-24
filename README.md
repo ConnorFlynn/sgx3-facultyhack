@@ -10,14 +10,14 @@ He serves as the Education Director for the NSF INCLUDES SPICE Alliance, advanci
 Connor teaches Bayesian Statistics, Geocomputation, and Cartographic Design, integrating real-world datasets into interactive learning experiences.  
 His research spans environmental analytics, machine learning, and public health, with a focus on Pacific resilience and equity.  
 
-<img width="306" height="376" alt="bren_photo" src="https://github.com/user-attachments/assets/ee0a8b51-f15d-4681-b8e6-d6c81ecd8e71" />
+<img width="153" height="188" alt="bren_photo" src="https://github.com/user-attachments/assets/ee0a8b51-f15d-4681-b8e6-d6c81ecd8e71" />
 
 
 ### Mentor
 **Trey White**  
 *Oak Ridge National Laboratory*
 
-<img width="260" height="325" alt="Trey_White_3_photo_0" src="https://github.com/user-attachments/assets/9d71523e-2e99-4062-9733-3bce04fae39b" />
+<img width="153" height="188" alt="Trey_White_3_photo_0" src="https://github.com/user-attachments/assets/9d71523e-2e99-4062-9733-3bce04fae39b" />
 
 
 ---
