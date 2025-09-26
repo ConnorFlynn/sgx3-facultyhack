@@ -4,7 +4,7 @@
 **Connor Flynn**  
 *Chaminade University of Honolulu*
 
-Connor Flynn is a Data Scientist at Chaminade University of Honolulu and the United Nations CIFAL Honolulu Centre. He earned a Master’s in Environmental Data Science from the Bren School of Environmental Science & MAnagement at UCSB. He serves as the Education Director for the NSF INCLUDES SPICE Alliance, advancing data science education across the Pacific region. Connor teaches Bayesian Statistics, Geocomputation, and Cartographic Design, integrating real-world datasets into interactive learning experiences.  
+Connor Flynn is a Data Scientist at Chaminade University of Honolulu and the United Nations CIFAL Honolulu Centre. He earned a Master’s in Environmental Data Science from the Bren School of Environmental Science & Management at UCSB. He serves as the Education Director for the NSF INCLUDES SPICE Alliance, advancing data science education across the Pacific region. Connor teaches Bayesian Statistics, Geocomputation, and Cartographic Design, integrating real-world datasets into interactive learning experiences.  
 His research spans environmental analytics, machine learning, and public health, with a focus on Pacific resilience and equity.  
 
 <img width="153" height="188" alt="bren_photo" src="https://github.com/user-attachments/assets/ee0a8b51-f15d-4681-b8e6-d6c81ecd8e71" />
